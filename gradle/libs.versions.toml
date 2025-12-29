@@ -1,9 +1,9 @@
 [versions]
 # Fabric (https://fabricmc.net/develop)
-minecraft = "1.21.11"
-yarn-mappings = "1.21.11+build.3"
+minecraft = "1.21."
+yarn-mappings = "1.21.+build.3"
 fabric-loader = "0.18.2"
-fabric-api = "0.140.0+1.21.11"
+fabric-api = "0.140.0+1.21."
 
 # Plugins
 # Loom (https://github.com/FabricMC/fabric-loom)
@@ -11,13 +11,13 @@ loom = "1.14-SNAPSHOT"
 
 # Mods
 # Baritone (https://github.com/MeteorDevelopment/baritone)
-baritone = "1.21.10-SNAPSHOT"
+baritone = "1.21.-SNAPSHOT"
 # Sodium (https://github.com/CaffeineMC/sodium-fabric)
-sodium = "mc1.21.11-0.8.0-fabric"
+sodium = "mc1.21.-0.8.0-fabric"
 # Lithium (https://github.com/CaffeineMC/lithium-fabric)
-lithium = "mc1.21.11-0.21.1-fabric"
+lithium = "mc1.21.-0.21.1-fabric"
 # Iris (https://github.com/IrisShaders/Iris)
-iris = "1.10.2+1.21.11-fabric"
+iris = "1.10.2+1.21.-fabric"
 # ModMenu (https://github.com/TerraformersMC/ModMenu)
 modmenu = "15.0.0"
 # Orbit (https://github.com/MeteorDevelopment/orbit)
